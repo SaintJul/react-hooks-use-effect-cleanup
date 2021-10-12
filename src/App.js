@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Clock from "./Clock"
 
 function App() {
   const [showClock, setShowClock] = useState(true);
